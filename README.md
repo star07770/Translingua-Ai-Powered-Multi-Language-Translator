@@ -6,7 +6,10 @@ Translingua is an AI-powered multi-language translator that allows users to inpu
 The project uses **Streamlit** for an interactive web interface and is structured to separate code, documentation, and demo files for clarity.
 
 ---
+## Team Members
+- Shaik Fayaz Ahmed
 
+---
 ## Project Structure
 
 - **Project_Files/**  
